@@ -1,2 +1,1 @@
-# DelPrint-X-
-My journal repo 
+# DelPrint-X
