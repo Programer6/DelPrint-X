@@ -22,6 +22,8 @@ Then made a BOM:
 10 hours !!!!!!
 Sourced AliExpress parts: clone BMG extruder, linear rails, belts. Was extremely hard to stay in budget, hit $300. Therefore deferred LED lighting and enclosure panels.
 
+Making of the cad:
+
 <img width="1310" alt="Screenshot 2025-04-03 at 3 00 45 PM" src="https://github.com/user-attachments/assets/784aba21-2c1b-4688-89b6-0174172d6d68" />
 
-
+<img width="421" alt="Screenshot 2025-04-03 at 3 16 59 PM" src="https://github.com/user-attachments/assets/67fa16bd-d5fe-4cbe-9f61-692940f863a8" />
