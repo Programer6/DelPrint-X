@@ -3,6 +3,7 @@ Made by: @codelife / @programmer6
 
 **Project Status:** Design Phase Complete (Pre-Assembly)  
 **Total Design Hours:** 50 hours  
+****CAD:** https://a360.co/43TlPJk
 
 Research: 5 hours
 I am completely inexperienced in 3D printing (I don't even have one 🥲) so obviously spent a good amount of time (way too much) researching how it works! The maker mash-up tutorial seemed quite detailed and helpful.
