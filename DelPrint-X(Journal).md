@@ -10,13 +10,13 @@ I am completely inexperienced in 3D printing (I don't even have one 🥲) so obv
 
 Here is some research that I did after reviwing AK printer'S documentation which came in clutch:
 
-https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
-https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
-https://reprap.org/wiki/Build_A_RepRap
-https://www.instructables.com/Complete-newbie-step-by-step-3D-printer-with-all-p/
-https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html
-https://www.geeky-gadgets.com/mondrian-customisable-reprap-3d-printer-07-12-2015/
-https://reprap.org/wiki/Choosing_a_Power_Supply_for_your_RepRap
+- https://www.instructables.com/How-to-Design-and-Build-a-3D-Printer/
+- https://kingroon.com/blogs/3d-print-101/cartesian-vs-corexy
+- https://reprap.org/wiki/Build_A_RepRap
+- https://www.instructables.com/Complete-newbie-step-by-step-3D-printer-with-all-p/
+- https://www.drdflo.com/pages/Guides/How-to-Build-a-3D-Printer/FFF.html
+- https://www.geeky-gadgets.com/mondrian-customisable-reprap-3d-printer-07-12-2015/
+- https://reprap.org/wiki/Choosing_a_Power_Supply_for_your_RepRap
 
 Overall, it helped me gathering references and brainstorming ideas and I also screenshot various reference images for the guides to help me out later while making my 3d printer. 
 
