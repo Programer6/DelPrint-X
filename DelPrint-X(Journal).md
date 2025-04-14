@@ -34,6 +34,7 @@ Making of the cad:
 
 <img width="421" alt="Screenshot 2025-04-03 at 3 16 59 PM" src="https://github.com/user-attachments/assets/67fa16bd-d5fe-4cbe-9f61-692940f863a8" />
 
+
 Getting organized was the first step. I created a new project workspace in Fusion360. For the extursion, cad parts, etx. I designed them in a different fusion360 file and then added then in to the main file. Slowly bring my hand-drawn sketches into alive!
 The frame is the backbone of the printer, so I invested significant time. Luckly I didn't need to design them from scratch as I was able to download the exturstion in the .dfx format and then adjust it too my siz ewhihc helped me save some time in the desiging processe.
 
