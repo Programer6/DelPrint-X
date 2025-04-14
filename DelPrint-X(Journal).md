@@ -1,10 +1,14 @@
 Made by: @codelife / @programmer6
 # 3D Printer Design: CAD & PCB Documentation
 
-**Project Status:** Design Phase Complete (Pre-Assembly)  
+**Project Status:** Design Phase Complete (Pre-Assembly) 
+
 **Total Design Hours:** 50 hours  
+
 **CAD:** https://a360.co/43TlPJk
+
 **Respository link:** https://github.com/Programer6/DelPrint-X
+
 **BOM: ** https://docs.google.com/spreadsheets/u/3/d/1YkbswMdvz8Wfhi4MrrZ9T6xIMiGSr8R6hmByEVLgUXc/edit?ouid=100411957879145722379&usp=sheets_home&ths=true
 
 Research: 5 hours
