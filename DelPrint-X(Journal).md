@@ -20,9 +20,9 @@ https://reprap.org/wiki/Choosing_a_Power_Supply_for_your_RepRap
 
 Overall, it helped me gathering references and brainstorming ideas and I also screenshot various reference images for the guides to help me out later while making my 3d printer. 
 
-Then made a BOM:
-10 hours !!!!!!
-Sourced AliExpress parts: clone BMG extruder, linear rails, belts. Was extremely hard to stay in budget, hit $300. Therefore deferred LED lighting and enclosure panels.
+- Then made a BOM:
+- 10 hours !!!!!!
+- Sourced AliExpress parts:  BMG extruder, linear rails, belts. Was extremely hard to stay in budget, hit $300. Therefore I had to sctrahc of the the idea of adding LED lighting and custom enclosure panels for my 3d printer.
 
 <img width="1310" alt="Screenshot 2025-04-03 at 3 00 45 PM" src="https://github.com/user-attachments/assets/784aba21-2c1b-4688-89b6-0174172d6d68" />
 
