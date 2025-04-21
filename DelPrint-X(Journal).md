@@ -36,7 +36,6 @@ Here is some research that I did after reviwing AK printer'S documentation which
 | 10 Mar 2025  | Detailed frame modeling: slots & cable-routing channels    | 6 hr  | Added custom slots and cable paths; heavy use of Align tool        |
 | 11 Mar 2025  | NEMA 17 stepper-motor mounts                     | 5 hr  | Added them in!                 |
 | 12 Mar 2025  | Quick CAD tweak: mount clearances                         | 1 hr  | Minor adjustments following test print fit checks                  |
-| 13 Mar 2025  | Integrated linear rails & BMG-extruder interface          | 6 hr  | Modeled carriage interfaces and virtual bolt-up to check fit       |
 | 14 Mar 2025  | Final CAD cleanup | 4 hr  |  organized folders, exported key parts        |
 | 14 Mar 2025  | Wrote project journal & documentation                     | 3 hr  | Drafted this log       |
 
