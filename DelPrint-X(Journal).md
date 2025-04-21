@@ -3,7 +3,7 @@ Made by: @codelife / @programmer6
 
 **Project Status:** Design Phase Complete (Pre-Assembly) 
 
-**Total Design Hours:** 50 hours  
+**Total Design Hours:** 50 hours  💀
 
 **CAD:** https://a360.co/43TlPJk
 
@@ -12,7 +12,7 @@ Made by: @codelife / @programmer6
 **BOM: ** https://docs.google.com/spreadsheets/u/3/d/1YkbswMdvz8Wfhi4MrrZ9T6xIMiGSr8R6hmByEVLgUXc/edit?ouid=100411957879145722379&usp=sheets_home&ths=true
 
 Research: 5 hours
-I am completely inexperienced in 3D printing (I don't even have one 🥲) so obviously spent a good amount of time (way too much) researching how it works! The maker mash-up tutorial seemed quite detailed and helpful.
+I am completely inexperienced in 3D printing (I don't even have one 🥲 like not even a cheapo one 😅) so obviously spent a good amount of time (way too much) researching how it works! The maker mash-up tutorial seemed quite detailed and helpful.
 <img width="1271" alt="Screenshot 2025-04-03 at 2 55 19 PM" src="https://github.com/user-attachments/assets/37b0918d-4e6c-4ec2-b78b-2466a5aa6df0" />
 
 Here is some research that I did after reviwing AK printer'S documentation which came in clutch:
@@ -43,7 +43,8 @@ Making of the cad:
 
 
 Getting organized was the first step. I created a new project workspace in Fusion360. For the extursion, cad parts, etx. I designed them in a different fusion360 file and then added then in to the main file. Slowly bring my hand-drawn sketches into alive!
-The frame is the backbone of the printer, so I invested significant time. Luckly I didn't need to design them from scratch as I was able to download the exturstion in the .dfx format and then adjust it too my siz ewhihc helped me save some time in the desiging processe.
+The frame is the backbone of the printer (Frame = backbone = MUST be solid.), so I invested significant time. Luckly I didn't need to design them from scratch as I was able to download the exturstion in the .dfx format and then adjust it too my size whihch helped me save some time in the desiging process.
+
 
 - Slowly I progressed my way through added custom mounting features such as slots. Used the fusions360 align feature to make sure the fitted perfectly.
 - Then progressed with adding NEMA 17 stepper motors on the its mounts
