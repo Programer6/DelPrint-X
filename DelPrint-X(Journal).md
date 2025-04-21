@@ -25,6 +25,21 @@ Here is some research that I did after reviwing AK printer'S documentation which
 - https://www.geeky-gadgets.com/mondrian-customisable-reprap-3d-printer-07-12-2015/
 - https://reprap.org/wiki/Choosing_a_Power_Supply_for_your_RepRap
 
+## Build Log
+
+| Date         | Task                                                      | Time  | Notes                                                             |
+|--------------|-----------------------------------------------------------|-------|-------------------------------------------------------------------|
+| 06 Mar 2025  | BOM creation & parts sourcing                             | 8 hr  | BOM cost hit $300, so LEDs & enclosure panels were cut to budget  |
+| 07 Mar 2025  | Fusion360 workspace setup & extrusion imports             | 4 hr  | Imported .dxf extrusion profiles; laid out main frame backbone     |
+| 08 Mar 2025  | Hand sketches - initial CAD of frame sections              | 5 hr  | Converted rough paper sketches into base CAD geometry              |
+| 09 Mar 2025  | Light CAD check-in                                        | 1 hr  | Quick session to verify slot placements after yesterday’s work     |
+| 10 Mar 2025  | Detailed frame modeling: slots & cable-routing channels    | 6 hr  | Added custom slots and cable paths; heavy use of Align tool        |
+| 11 Mar 2025  | NEMA 17 stepper-motor mounts                     | 5 hr  | Added them in!                 |
+| 12 Mar 2025  | Quick CAD tweak: mount clearances                         | 1 hr  | Minor adjustments following test print fit checks                  |
+| 13 Mar 2025  | Integrated linear rails & BMG-extruder interface          | 6 hr  | Modeled carriage interfaces and virtual bolt-up to check fit       |
+| 14 Mar 2025  | Final CAD cleanup | 4 hr  |  organized folders, exported key parts        |
+| 14 Mar 2025  | Wrote project journal & documentation                     | 3 hr  | Drafted this log       |
+
 Overall, it helped me gathering references and brainstorming ideas and I also screenshot various reference images for the guides to help me out later while making my 3d printer. 
 
 - Then made a BOM:
