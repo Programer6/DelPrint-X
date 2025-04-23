@@ -130,6 +130,11 @@ The frame is the backbone of the printer (Frame = backbone = MUST be solid.), so
 <img width="551" alt="Screenshot 2025-04-03 at 3 18 47 PM" src="https://github.com/user-attachments/assets/faa5f416-5246-42e2-a225-82c5f8999c0c" />
 <img width="533" alt="Screenshot 2025-04-03 at 3 19 25 PM" src="https://github.com/user-attachments/assets/4180f5a9-9add-4d90-9d14-73292d939ec5" />
 
+
+
+# Making of the 3D printer 
+
+
 # Other Cool Ideas I have!
 I’ll planning to use ESP-EYE module (I already have this - will ask from my coding teacher) to monitor my 3D printer in real time. Since the ESP-EYE has a built-in camera and WiFi, I’ll flash it with a video streaming firmware which I will code and mount it near the printer to watch the print bed remotely (Via eg. youtube). If i have engouh time I am also think of experimenting with the ESP-EYE’s AI features to detect motion and hopefully dectect fails in order to create a system in which it will send me a SMS. 
 
