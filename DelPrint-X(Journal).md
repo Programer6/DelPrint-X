@@ -9,7 +9,7 @@ Made by: @codelife / @programmer6
 
 **Respository link:** https://github.com/Programer6/DelPrint-X
 
-**BOM: ** https://docs.google.com/spreadsheets/u/3/d/1YkbswMdvz8Wfhi4MrrZ9T6xIMiGSr8R6hmByEVLgUXc/edit?ouid=100411957879145722379&usp=sheets_home&ths=true
+**BOM:** https://docs.google.com/spreadsheets/u/3/d/1YkbswMdvz8Wfhi4MrrZ9T6xIMiGSr8R6hmByEVLgUXc/edit?ouid=100411957879145722379&usp=sheets_home&ths=true
 
 ## Project Overview
 
