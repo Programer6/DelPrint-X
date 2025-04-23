@@ -148,7 +148,8 @@ Imag of adding the slots in!
 More images!
 <br>
 <img width="470" alt="Screenshot 2025-04-23 at 5 43 56 PM" src="https://github.com/user-attachments/assets/a0749810-7c50-4431-a4da-18d394e89bd1" />
-<img width="507" alt="Screenshot 2025-04-23 at 5 44 42 PM" src="https://github.com/user-attachments/assets/62691258-3cac-4d14-93c8-c412f3e0084a" />
+<img width="786" alt="Screenshot 2025-04-23 at 5 46 48 PM" src="https://github.com/user-attachments/assets/2cdcee86-d86e-47be-b08a-5ee63577dd69" />
+
 
 
 # Other Cool Ideas I have!
