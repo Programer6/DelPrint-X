@@ -38,7 +38,7 @@ This build was my deep dive into printer mechanics, electronics, and is open‑s
 
 
 
-## Research: 5 hours
+## Research: 10 hours
 I am completely inexperienced in 3D printing (I don't even have one 🥲 like not even a cheapo one 😅) so obviously spent a good amount of time (way too much) researching how it works! The maker mash-up tutorial seemed quite detailed and helpful.
 <img width="1271" alt="Screenshot 2025-04-03 at 2 55 19 PM" src="https://github.com/user-attachments/assets/37b0918d-4e6c-4ec2-b78b-2466a5aa6df0" />
 
