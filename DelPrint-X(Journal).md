@@ -142,9 +142,12 @@ Image of which so the the different size of extrusion and once up together!
 
 Imag of adding the slots in!
 
-
+<br>
 <img width="680" alt="Screenshot 2025-04-23 at 5 42 02 PM" src="https://github.com/user-attachments/assets/f63b8326-56dc-4eab-a103-f9efabda319b" />
 
+More images!
+<img width="470" alt="Screenshot 2025-04-23 at 5 43 56 PM" src="https://github.com/user-attachments/assets/a0749810-7c50-4431-a4da-18d394e89bd1" />
+<img width="507" alt="Screenshot 2025-04-23 at 5 44 42 PM" src="https://github.com/user-attachments/assets/62691258-3cac-4d14-93c8-c412f3e0084a" />
 
 
 # Other Cool Ideas I have!
