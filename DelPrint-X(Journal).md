@@ -29,7 +29,7 @@ This build was my deep dive into printer mechanics, electronics, and is open‑s
 | 07 Mar 2025  | Fusion360 workspace setup & extrusion imports             | 4 hr  | Imported .dxf extrusion profiles; create the extrustion in the correct size out main frame backbone     |
 | 08 Mar 2025  | Hand sketches - initial CAD of frame sections              | 5 hr  | Converted rough paper sketches (see below ) this really helped to see where each extrusion goes! and actually placed them in the correct positions!            |
 | 09 Mar 2025  | Light CAD check-in                                        | 1 hr  | Quick session to verify slot placements after yesterday’s work once they where all right modeled a slots for T-nuts   |
-| 10 Mar 2025  | Detailed frame modeling: slots & cable-routing channels    | 6 hr  | Added custom slots and cable paths; heavy use of Align tool        |
+| 10 Mar 2025  | Detailed frame modeling: slots & cable-routing channels    | 6 hr  | Added custom slots and cable paths; heavy use of Align tool on fusion360 to make sure that everything fit perfectly!      |
 | 11 Mar 2025  | NEMA 17 stepper-motor mounts                     | 5 hr  | Added them in and making sure they had clearance for wires and matched mounting hole specs                |
 | 12 Mar 2025  | Quick CAD tweak: mount clearances                         | 1 hr  | Minor adjustments following test print fit checks                  |
 | 12 Mar 2025  | Desgined PCB                      | 3 hr  | Laid out the 10×10 NeoPixel matrix in KiCad which is going to be controlled using the ESP32. also added it mic so that I can make a music reative animation while not in use  (showing prionter progress)                |
