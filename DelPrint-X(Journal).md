@@ -134,9 +134,16 @@ The frame is the backbone of the printer (Frame = backbone = MUST be solid.), so
 
 # Making of the 3D printer 
 
-Image of whcih so the the different size of extrusion and once up together!
+Image of which so the the different size of extrusion and once up together!
+<br>
+
 <img width="357" alt="Screenshot 2025-04-23 at 5 37 09 PM" src="https://github.com/user-attachments/assets/921faed7-f6b6-493a-987e-0586451407f6" />
 <img width="522" alt="Screenshot 2025-04-23 at 5 36 33 PM" src="https://github.com/user-attachments/assets/a6475538-f0ff-4fe6-9099-2f127849088d" />
+
+Imag of adding the slots in!
+
+
+<img width="680" alt="Screenshot 2025-04-23 at 5 42 02 PM" src="https://github.com/user-attachments/assets/f63b8326-56dc-4eab-a103-f9efabda319b" />
 
 
 
