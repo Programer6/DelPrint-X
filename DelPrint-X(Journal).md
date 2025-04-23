@@ -25,16 +25,16 @@ This build was my deep dive into printer mechanics, electronics, and is open‑s
 
 | Date         | Task                                                      | Time  | Notes                                                             |
 |--------------|-----------------------------------------------------------|-------|-------------------------------------------------------------------|
-| 06 Mar 2025  | BOM creation & parts sourcing                             | 10 hr  | BOM cost hit $300, so LEDs & enclosure panels were cut to budget  |
-| 07 Mar 2025  | Fusion360 workspace setup & extrusion imports             | 4 hr  | Imported .dxf extrusion profiles; laid out main frame backbone     |
-| 08 Mar 2025  | Hand sketches - initial CAD of frame sections              | 5 hr  | Converted rough paper sketches into base CAD geometry              |
-| 09 Mar 2025  | Light CAD check-in                                        | 1 hr  | Quick session to verify slot placements after yesterday’s work     |
+| 06 Mar 2025  | BOM creation & parts sourcing                             | 10 hr  | Spent the  multiple days listing all required components—frame, motors, electronics, fasteners. Initial BOM cost hit $300, so I revised it by cutting back on high-density LEDs and replacing acrylic panels with MDF for the enclosure. This part mainly took so long a I had to search of the cheapest other then that I also had to orgaize information into Parts	Qty Needed	Pkg Qty	Order Qty	Cost	Link (see image below. ) to avoid over/under-ordering |
+| 07 Mar 2025  | Fusion360 workspace setup & extrusion imports             | 4 hr  | Imported .dxf extrusion profiles; create the extrustion in the correct size out main frame backbone     |
+| 08 Mar 2025  | Hand sketches - initial CAD of frame sections              | 5 hr  | Converted rough paper sketches (see below ) and actually placed them in the correct positions!            |
+| 09 Mar 2025  | Light CAD check-in                                        | 1 hr  | Quick session to verify slot placements after yesterday’s work once they where all right modeled a slots for T-nuts   |
 | 10 Mar 2025  | Detailed frame modeling: slots & cable-routing channels    | 6 hr  | Added custom slots and cable paths; heavy use of Align tool        |
-| 11 Mar 2025  | NEMA 17 stepper-motor mounts                     | 5 hr  | Added them in!                 |
+| 11 Mar 2025  | NEMA 17 stepper-motor mounts                     | 5 hr  | Added them in and making sure they had clearance for wires and matched mounting hole specs                |
 | 12 Mar 2025  | Quick CAD tweak: mount clearances                         | 1 hr  | Minor adjustments following test print fit checks                  |
-| 12 Mar 2025  | Desgined PCB                      | 3 hr  | PCB                 |
-| 14 Mar 2025  | Final CAD cleanup | 4 hr  |  organized folders, exported key parts        |
-| 14 Mar 2025  | Wrote project journal & documentation                     | 3 hr  | Drafted this log       |
+| 12 Mar 2025  | Desgined PCB                      | 3 hr  | Laid out the 10×10 NeoPixel matrix in KiCad which is going to be controlled using the ESP32. also added it mic so that I can make a music reative animation while not in use  (showing prionter progress)                |
+| 14 Mar 2025  | Final CAD cleanup | 4 hr  |  Organized all Fusion360 folders into a logically. Exported key frame and mount parts as STEP so that I can easily find them during the time of 3D printing and anmed every component properly..       |
+| 14 Mar 2025  | Wrote project journal & documentation                     | 3 hr  | Wrote logs for each day’s progress which you are reading rn.      |
 
 
 
