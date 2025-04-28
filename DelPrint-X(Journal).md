@@ -39,6 +39,17 @@ This build was my deep dive into printer mechanics, electronics, and is open‑s
 | 14 Mar 2025  | Wrote project journal & documentation                     | 3 hr  | Wrote logs for each day’s progress which you are reading rn.      |
 
 
+Date | Task | Time | Notes
+06 Mar 2025 | BOM creation & parts sourcing | 10 hr | Spent the multiple days listing all required components—frame, motors, electronics, fasteners. Initial BOM cost hit $300, so I revised it by cutting back on high-density LEDs and replacing acrylic panels with MDF for the enclosure. This part mainly took so long a I had to search of the cheapest other then that I also had to orgaize information into Parts Qty Needed Pkg Qty Order Qty Cost Link (see image below.) to avoid over/under-ordering <img width="1310" alt="Screenshot 2025-04-03 at 3 00 45 PM" src="https://github.com/user-attachments/assets/784aba21-2c1b-4688-89b6-0174172d6d68" />
+07 Mar 2025 | Fusion360 workspace setup & extrusion imports | 4 hr | Imported .dxf extrusion profiles; create the extrusion in the correct size out main frame backbone <img width="421" alt="Screenshot 2025-04-03 at 3 16 59 PM" src="https://github.com/user-attachments/assets/67fa16bd-d5fe-4cbe-9f61-692940f863a8" /><img width="357" alt="Screenshot 2025-04-23 at 5 37 09 PM" src="https://github.com/user-attachments/assets/921faed7-f6b6-493a-987e-0586451407f6" /><img width="522" alt="Screenshot 2025-04-23 at 5 36 33 PM" src="https://github.com/user-attachments/assets/a6475538-f0ff-4fe6-9099-2f127849088d" />
+08 Mar 2025 | Hand sketches - initial CAD of frame sections | 5 hr | Converted rough paper sketches (see below) this really helped to see where each extrusion goes! and actually placed them in the correct positions!
+09 Mar 2025 | Light CAD check-in | 1 hr | Quick session to verify slot placements after yesterday’s work once they where all right modeled a slots for T-nuts
+10 Mar 2025 | Detailed frame modeling: slots & cable-routing channels | 6 hr | Added custom slots and cable paths; heavy use of Align tool on Fusion360 to make sure that everything fit perfectly!<img width="680" alt="Screenshot 2025-04-23 at 5 42 02 PM" src="https://github.com/user-attachments/assets/f63b8326-56dc-4eab-a103-f9efabda319b" />
+11 Mar 2025 | NEMA 17 stepper-motor mounts | 5 hr | Added them in and making sure they had clearance for wires and matched mounting hole specs
+12 Mar 2025 | Quick CAD tweak: mount clearances | 1 hr | Minor adjustments following test print fit checks
+12 Mar 2025 | Designed PCB | 3 hr | Laid out the 10×10 NeoPixel matrix in KiCad which is going to be controlled using the ESP32. also added it mic so that I can make a music reactive animation while not in use (showing printer progress)
+14 Mar 2025 | Final CAD cleanup | 4 hr | Organized all Fusion360 folders into a logically. Exported key frame and mount parts as STEP so that I can easily find them during the time of 3D printing and named every component properly.
+14 Mar 2025 | Wrote project journal & documentation | 3 hr | Wrote logs for each day’s progress which you are reading rn.
 
 ## Research: 10 hours
 I am completely inexperienced in 3D printing (I don't even have one 🥲 like not even a cheapo one 😅) so obviously spent a good amount of time (way too much) researching how it works! The maker mash-up tutorial seemed quite detailed and helpful.
